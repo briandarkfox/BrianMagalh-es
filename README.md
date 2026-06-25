@@ -9,7 +9,7 @@ i like video games and perhaps i'll learn how to design one.
 ###  Social Media
 
 <p align="center">
-  <a href="mailto:rafaelnitai06@gmail.com">
+  <a href="mailto:brianmfoxx06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
