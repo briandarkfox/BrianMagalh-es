@@ -2,7 +2,7 @@
 
 First-year high school student. <br>
 learning system development at ETECVAV, aiming to learn new things. <br>
-languages: braziliam portuguese (native) and almost fluent in english.
+languages: brazilian portuguese (native) and almost fluent in english.
 i like video games and perhaps i'll learn how to design one.
 
 
